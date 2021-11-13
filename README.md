@@ -1,3 +1,3 @@
 # Practicing functions
 
-Simple functions with different methods, including a function passing several operations
+Simple codes with different uses of functions
